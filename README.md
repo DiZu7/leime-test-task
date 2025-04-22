@@ -3,7 +3,7 @@
 This project is a meme directory built as a test assignment. It's a React app created using the Vite + HeroUI template and deployed on Railway.
 
 ### 🔗 Live Demo
-#### The app is live at: 
+#### The app is live at: https://leime-test-task-production-338c.up.railway.app
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@ This project is a meme directory built as a test assignment. It's a React app cr
 ## 📱 Responsive Design
 Works smoothly on mobile and desktop
 
-Tested on Chrome (latest) on macOS
+Tested on Chrome (latest) & Safari on macOS, Safari on iOS
 
 ## How to Use
 
